@@ -1194,11 +1194,11 @@ button.buy-now {
 
     .nav-menu {
         position: fixed;
-        top: 70px;
+        top: 94px;
         left: -100%;
         width: 100%;
         flex-direction: column;
-        background: var(--white);
+        background: #f6f6f6;
         padding: 30px;
         box-shadow: var(--shadow-lg);
         transition: var(--transition);
