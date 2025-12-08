@@ -118,7 +118,8 @@ scrollTopBtn.addEventListener('click', () => {
 });
 
 // ========== COUNTER ANIMATION FOR STATS ==========
-/*const statNumbers = document.querySelectorAll('.stat-number[data-target]');
+/*
+const statNumbers = document.querySelectorAll('.stat-number[data-target]');
 let countersActivated = false;
 
 function animateCounters() {
@@ -259,9 +260,9 @@ cards.forEach(card => {
 // gtag('config', 'GA_MEASUREMENT_ID');
 
 // ========== CONSOLE INFO ==========
-console.log('%c🌍 Global Languages - Escola de Idiomas', 'color: #1e3a5f; font-size: 20px; font-weight: bold;');
-console.log('%cDesenvolvido com dedicação para transformar vidas através dos idiomas', 'color: #f59e0b; font-size: 14px;');
-console.log('%cVisite-nos: Av. Paulista, 1234 - São Paulo/SP', 'color: #64748b; font-size: 12px;');
+console.log('%c BENKYOU NOW ONLINE - Escola de Idiomas', 'color: #1e3a5f; font-size: 20px; font-weight: bold;');
+console.log('%cDesenvolvido com dedicação para transformar vidas através do idioma japonês', 'color: #f59e0b; font-size: 14px;');
+console.log('https://brunowace.github.io/meu-portfolio-online/', 'color: #64748b; font-size: 12px;');
 
 // ========== SERVICE WORKER (OPCIONAL - PWA) ==========
 // Descomente para adicionar suporte PWA
