@@ -260,8 +260,8 @@ cards.forEach(card => {
 // gtag('config', 'GA_MEASUREMENT_ID');
 
 // ========== CONSOLE INFO ==========
-console.log('%c BENKYOU NOW ONLINE - Escola de Idiomas', 'color: #1e3a5f; font-size: 20px; font-weight: bold;');
-console.log('%cDesenvolvido com dedicação para transformar vidas através do idioma japonês', 'color: #f59e0b; font-size: 14px;');
+console.log('%c BENKYOU NOW ONLINE - Escola de Idiomas', 'color: #a30003; font-size: 20px; font-weight: bold;');
+console.log('%cDesenvolvido com dedicação para transformar vidas através do idioma japonês', 'color: #152c47; font-size: 14px;');
 console.log('https://brunowace.github.io/meu-portfolio-online/', 'color: #64748b; font-size: 12px;');
 
 // ========== SERVICE WORKER (OPCIONAL - PWA) ==========
@@ -315,8 +315,8 @@ window.addEventListener('keydown', (e) => {
     konamiCode = konamiCode.slice(-10);
 
     if (konamiCode.join(',') === konamiPattern.join(',')) {
-        console.log('%c🎉 Você encontrou o Easter Egg!', 'color: #f59e0b; font-size: 24px; font-weight: bold;');
-        console.log('%c🌍 Continue explorando e aprendendo idiomas!', 'color: #1e3a5f; font-size: 16px;');
+        console.log('%c🎉 Você encontrou o Easter Egg!', 'color: #a30003; font-size: 24px; font-weight: bold;');
+        console.log('%c🌍 Continue explorando e aprendendo japonês!', 'color: #1e3a5f; font-size: 16px;');
 
         // Adicionar confetti ou algum efeito visual
         document.body.style.animation = 'rainbow 2s infinite';
