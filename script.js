@@ -262,7 +262,7 @@ cards.forEach(card => {
 // ========== CONSOLE INFO ==========
 console.log('%c BENKYOU NOW ONLINE - Escola de Idiomas', 'color: #a30003; font-size: 20px; font-weight: bold;');
 console.log('%cDesenvolvido com dedicação para transformar vidas através do idioma japonês', 'color: #152c47; font-size: 14px;');
-console.log('https://brunowace.github.io/meu-portfolio-online/', 'color: #64748b; font-size: 12px;');
+// console.log('https://brunowace.github.io/meu-portfolio-online/', 'color: #64748b; font-size: 12px;');
 
 // ========== SERVICE WORKER (OPCIONAL - PWA) ==========
 // Descomente para adicionar suporte PWA
